@@ -7,7 +7,7 @@ import Events from  './components/Events/Events.js'
 import Contacts from  './components/Contacts/Contacts.js'
 import Achievements from './components/Achievements/Achievements.js'
 import SideDrawer from './components/SideDrawer/SideDrawer.js'
-import {BrowserRouter, Route, Switch} from 'react-router-dom'
+import {BrowserRouter, HashRouter, Route, Switch} from 'react-router-dom'
 import Footer from './components/Footer.js' 
 import Gallery from './components/Gallery.js'
 import NotFound from './components/NotFoundPage/NotFoundPage.js'
@@ -38,7 +38,7 @@ class App extends Component {
     {/* <div className="credentials">
       <Cred/>
     </div> */}
-    <BrowserRouter >
+    <HashRouter >
      <Toolbar  drawerClickHandler={this.drawerToggleClickHandler}/>
      
      {adrawer}
@@ -51,7 +51,7 @@ class App extends Component {
         <Route path="/gallery" component={Gallery}/>
         <Route path="*" component={NotFound} />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
       <Footer/>
     </div>
   );
