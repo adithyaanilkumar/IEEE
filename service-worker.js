@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/adithyaanilkumar/IEEE.git/precache-manifest.dbaaff0e345137b683768dae5498abce.js"
+  "/adithyaanilkumar/IEEE.git/precache-manifest.56714903e1033d7453273ec0b979c5f7.js"
 );
 
 self.addEventListener('message', (event) => {

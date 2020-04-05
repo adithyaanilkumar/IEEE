@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/adithyaanilkumar/IEEE.git/static/css/main.4c07e073.chunk.css",
-    "main.js": "/adithyaanilkumar/IEEE.git/static/js/main.24e3f359.chunk.js",
-    "main.js.map": "/adithyaanilkumar/IEEE.git/static/js/main.24e3f359.chunk.js.map",
+    "main.js": "/adithyaanilkumar/IEEE.git/static/js/main.63aa6243.chunk.js",
+    "main.js.map": "/adithyaanilkumar/IEEE.git/static/js/main.63aa6243.chunk.js.map",
     "runtime-main.js": "/adithyaanilkumar/IEEE.git/static/js/runtime-main.dfaff77e.js",
     "runtime-main.js.map": "/adithyaanilkumar/IEEE.git/static/js/runtime-main.dfaff77e.js.map",
     "static/css/2.36020323.chunk.css": "/adithyaanilkumar/IEEE.git/static/css/2.36020323.chunk.css",
-    "static/js/2.f17aa5d8.chunk.js": "/adithyaanilkumar/IEEE.git/static/js/2.f17aa5d8.chunk.js",
-    "static/js/2.f17aa5d8.chunk.js.map": "/adithyaanilkumar/IEEE.git/static/js/2.f17aa5d8.chunk.js.map",
+    "static/js/2.1c04eb40.chunk.js": "/adithyaanilkumar/IEEE.git/static/js/2.1c04eb40.chunk.js",
+    "static/js/2.1c04eb40.chunk.js.map": "/adithyaanilkumar/IEEE.git/static/js/2.1c04eb40.chunk.js.map",
     "index.html": "/adithyaanilkumar/IEEE.git/index.html",
-    "precache-manifest.dbaaff0e345137b683768dae5498abce.js": "/adithyaanilkumar/IEEE.git/precache-manifest.dbaaff0e345137b683768dae5498abce.js",
+    "precache-manifest.56714903e1033d7453273ec0b979c5f7.js": "/adithyaanilkumar/IEEE.git/precache-manifest.56714903e1033d7453273ec0b979c5f7.js",
     "service-worker.js": "/adithyaanilkumar/IEEE.git/service-worker.js",
     "static/css/2.36020323.chunk.css.map": "/adithyaanilkumar/IEEE.git/static/css/2.36020323.chunk.css.map",
     "static/css/main.4c07e073.chunk.css.map": "/adithyaanilkumar/IEEE.git/static/css/main.4c07e073.chunk.css.map",
-    "static/js/2.f17aa5d8.chunk.js.LICENSE.txt": "/adithyaanilkumar/IEEE.git/static/js/2.f17aa5d8.chunk.js.LICENSE.txt",
+    "static/js/2.1c04eb40.chunk.js.LICENSE.txt": "/adithyaanilkumar/IEEE.git/static/js/2.1c04eb40.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/adithyaanilkumar/IEEE.git/static/media/1.8aeb35c8.jpg",
     "static/media/404.png": "/adithyaanilkumar/IEEE.git/static/media/404.929a535b.png",
     "static/media/5.jpg": "/adithyaanilkumar/IEEE.git/static/media/5.4073702a.jpg",
@@ -45,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.dfaff77e.js",
     "static/css/2.36020323.chunk.css",
-    "static/js/2.f17aa5d8.chunk.js",
+    "static/js/2.1c04eb40.chunk.js",
     "static/css/main.4c07e073.chunk.css",
-    "static/js/main.24e3f359.chunk.js"
+    "static/js/main.63aa6243.chunk.js"
   ]
 }
