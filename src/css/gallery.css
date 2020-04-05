@@ -1,0 +1,13 @@
+.restrict_margin{
+    width:80vw;
+    height:auto;
+    margin:auto;
+}
+
+#bottom_margin{
+    margin-bottom:1.5em;
+}
+
+#gallery{
+    z-index: 0;
+}

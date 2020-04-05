@@ -1,0 +1,143 @@
+
+.meta-nav {
+    min-height: 40px;
+    background: white;
+    color: #01579b;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.meta-ieee-logo {
+      margin: -2px 0px 0px 0px;
+    float:right;
+}
+
+@media (max-width: 800px) {
+.meta-nav {
+    min-height: 100px;
+    background: white;
+    color: #01579b;
+    padding: 0px;
+    margin: 0px;
+}
+.meta-ieee-logo {
+      padding: 20px 0px 0px 0px;
+    float:right;
+}
+}
+
+
+#ieee-meta-a {
+    font-family: inherit;
+    font-size: .9em;
+    line-height: 125%;
+    border: 0;
+    margin: 0;
+    color: #01579b;
+    text-align: left;
+    padding: 11px 36px;
+}
+
+#ieee-meta-a a:link, #ieee-meta-a a:visited, #ieee-meta-a a:active {
+    color: #01579b;
+    text-decoration: none;
+}
+
+#ieee-meta-a a:hover {
+    color: #01579b;
+    text-decoration: underline;
+}
+
+.toolbar_a{
+
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 40px;
+    background: white;
+    height: 56px;
+    z-index:5;
+    padding: 4rem;
+    padding-bottom: 2rem;
+    
+
+
+}
+.toolbar_navigation{
+    background-color: white;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding: 0 1rem;
+    box-shadow: none;
+    
+}
+
+.drawer_toggle{
+    align-items: center;
+    margin-top: 0.5rem;
+}
+.toolbar_logo a{
+    color: #01579b;
+    text-decoration: none;
+    font-size: 2rem;
+    margin-left: 0.5rem;
+
+}
+.hi{
+    flex:1;
+}
+.toolbar_navigation_items ul{
+    color: #01579b;
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.25rem;
+    display: flex;
+    position: relative;
+    float: right;
+    
+}
+.toolbar_navigation_items li{
+    padding: 0 0.5rem;   
+     
+}
+.toolbar_navigation_items a{
+    color: #01579b;
+    text-decoration: none;
+}
+
+
+.toolbar_navigation_items a:hover{
+    color: white;
+    text-decoration: none;
+    background: #01579b;
+
+}
+
+.toolbar_navigation_items a:active{
+    color: white;
+    text-decoration: none;
+}
+
+@media(max-width: 768px){
+    .toolbar_navigation_items{
+        display: none;
+        position: fixed;
+    }
+    
+    .toolbar_a{
+        position: fixed;
+        width: 100%;
+        left: 0;
+        top: 40px;
+        background: white;
+        height: 56px;
+        z-index:5;
+        padding: 2px;
+        
+        
+    
+    
+    }
+}
