@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32cb6d82cb5768a9ffd7375b8156a49a",
+    "revision": "8b90e6d2f9f057276df583efa919619a",
     "url": "/IEEE/index.html"
   },
   {
-    "revision": "6240b94cbfad57b50529",
+    "revision": "da0339ecb711b8e211a0",
     "url": "/IEEE/static/css/2.36020323.chunk.css"
   },
   {
-    "revision": "3a6e234a3b22fdbd864c",
-    "url": "/IEEE/static/css/main.4c07e073.chunk.css"
+    "revision": "127644862ac7f90becd8",
+    "url": "/IEEE/static/css/main.e7562d66.chunk.css"
   },
   {
-    "revision": "6240b94cbfad57b50529",
-    "url": "/IEEE/static/js/2.1c04eb40.chunk.js"
+    "revision": "da0339ecb711b8e211a0",
+    "url": "/IEEE/static/js/2.57fb451d.chunk.js"
   },
   {
     "revision": "7979eeaf519f92e9fad084e05c681841",
-    "url": "/IEEE/static/js/2.1c04eb40.chunk.js.LICENSE.txt"
+    "url": "/IEEE/static/js/2.57fb451d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a6e234a3b22fdbd864c",
-    "url": "/IEEE/static/js/main.b6762771.chunk.js"
+    "revision": "127644862ac7f90becd8",
+    "url": "/IEEE/static/js/main.b541cfd4.chunk.js"
   },
   {
     "revision": "1ec9edeb81d0e8b5917b",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8aeb35c8cebd7f4b50f03d615c1ef173",
     "url": "/IEEE/static/media/1.8aeb35c8.jpg"
+  },
+  {
+    "revision": "5d61e7ce24d55ed9fb64d1875a57e00f",
+    "url": "/IEEE/static/media/2.5d61e7ce.jpg"
   },
   {
     "revision": "929a535bbbf43a5d41e6ddcffad76200",
@@ -64,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IEEE/static/media/CS_secretary.1ac4d7f6.jpg"
   },
   {
+    "revision": "8990ee3405ca69439258249feab29f72",
+    "url": "/IEEE/static/media/Christina.8990ee34.jpg"
+  },
+  {
     "revision": "9711ffcf5a216c0c50a7731b962d81c8",
     "url": "/IEEE/static/media/Content_head.9711ffcf.jpg"
   },
@@ -82,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e32ea3ad3d021ae62c1d4eb380f2b0d4",
     "url": "/IEEE/static/media/MEC.e32ea3ad.jpeg"
-  },
-  {
-    "revision": "dc293eae1af62506ec3f91309f59d1a3",
-    "url": "/IEEE/static/media/No_DP.dc293eae.jpg"
   },
   {
     "revision": "96303e3d5fd115cded9d1f91c2a15602",
@@ -132,7 +136,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IEEE/static/media/WiE_secretary.7fc4b9fe.jpg"
   },
   {
-    "revision": "fc8143db8f44adf474f25be3378781c5",
-    "url": "/IEEE/static/media/neon.fc8143db.jpg"
+    "revision": "6b08f891930779f26766b3790b39ed75",
+    "url": "/IEEE/static/media/gokul.6b08f891.jpg"
+  },
+  {
+    "revision": "2b10fd103d635cbad7ce0e2a7646146e",
+    "url": "/IEEE/static/media/ieee-logo.2b10fd10.png"
+  },
+  {
+    "revision": "58c648bc287c3fe4d4db23f800cd8e92",
+    "url": "/IEEE/static/media/kochi.58c648bc.jpg"
+  },
+  {
+    "revision": "8254261e64e9e28b6b3d74743a3519d9",
+    "url": "/IEEE/static/media/main1.8254261e.jpg"
+  },
+  {
+    "revision": "f3ee6178d69bb497d94dbf2336576d73",
+    "url": "/IEEE/static/media/parallax.f3ee6178.png"
+  },
+  {
+    "revision": "f411f189ddaefd885969c5caf6790669",
+    "url": "/IEEE/static/media/pp.f411f189.jpg"
   }
 ]);
