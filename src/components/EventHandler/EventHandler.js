@@ -6,10 +6,12 @@ import IndiEvents from "../IndiEvents/IndiEvents.js"
 class EventHandler extends Component{
     state={
         ShowMainEvents: true,
-        index: 0
+        index: 0,
+        
       }
       
-      eventToggleClickHandler = () =>{
+      eventToggleClickHandler = (ind) =>{
+        this.setState({index: ind});
         this.setState((prevState)=>{
           return {ShowMainEvents: !prevState.ShowMainEvents}; // for opening the sidebar
         });
